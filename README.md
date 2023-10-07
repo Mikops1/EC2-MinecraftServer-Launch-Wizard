@@ -10,13 +10,9 @@ Desired server files are already on the EC2 Instance
 The linked JSON file has the correct data:
 
     "aws_region" - region where instance is setup
-    
     "key_path" - path to keypair
-    
     "instance_id" - id of instance to be used
-    
     "instance_ids" - same as above
-    
     "server_path" - path to server slh file on EC2 Instance
     
 
