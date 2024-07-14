@@ -1,1 +1,1 @@
-{"aws_region": "eu-west-2", "key_path": "F:\\AWS Testing\\Keypair1.pem", "instance_id": "i-0123456789", "instance_ids": ["i-0123456789"], "server_path": "/home/ec2-user/Servers/Londinium"}
+{"aws_region": "eu-west-2", "key_path": "F:\\AWS Testing\\Keypair1.pem", "instance_id": "i-0123456789", "instance_ids": ["i-0123456789"], "server_path": "/home/ec2-user/Servers/ServerName"}
